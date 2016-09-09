@@ -7,7 +7,7 @@ Tree command scoped to your git project leveraging .gitignore
 Available as a [bpkg](http://www.bpkg.io/)
 
 ```sh
-bpkg install [-g] jwerle/git-tree
+bpkg install [-g] littlstar/git-tree
 ```
 
 # Usage
