@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=0.0.1
+VERSION=0.0.3
 declare -i IGNORE_FILES_COUNT=0
 declare -a IGNORE_FILES=()
 
